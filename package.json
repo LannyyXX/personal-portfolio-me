@@ -1,0 +1,10 @@
+{
+  "name": "tailwind-project",
+  "version": "1.0.0",
+  "scripts": {
+    "build": "tailwindcss build src/input.css -o dist/output.css"
+  },
+  "dependencies": {
+    "tailwindcss": "^latest"
+  }
+}
